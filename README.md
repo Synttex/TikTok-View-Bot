@@ -1,5 +1,5 @@
 # TikTok Bot Showcase
-https://media.discordapp.net/attachments/1086568859911327806/1112885971990618172/image.png
+![image](https://github.com/Synttex/TikTok-View-Bot/assets/134978283/d8386524-6f3d-4b2c-9f05-e7ed53d0dfb3)
 
 # TikTok Bot Features
 
